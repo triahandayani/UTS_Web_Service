@@ -13,11 +13,10 @@ contoh (mobil dengan merek, buku dengan pengarang, dll )
 - Terdapat method GET seluruh data dan berdasarkan ID, method POST, PUT, dan DELETE
 - Terdapat response kode error dan keterangannya
 
-
 #### Cara menilaikan :
 - Upload kode anda pada social repository seperti : github, gitlab, atau bitbucket. link repositorynya yang dikirim
+- Kirimkan link repository dan screen shoot tampilan hasil running code melalui GCR, hasil tugas ditunggu selambat-lambatnya tgl 17 April 2022 jam 13.00
 
-### Skema Database
 #### tb_kategori
 ```
 - id_kategori 
@@ -25,14 +24,13 @@ contoh (mobil dengan merek, buku dengan pengarang, dll )
 ```
 #### tb_produk
 ```
-- id_produk * Primary, INT, Auto Increment
+- id_produk
 - nama_produk 
 - harga_produk 
 - stok_produk 
 - id_kategori 
 ```
 ##### keterangan :
-* \* Primary Key
-* \*\* Foreign Key
+* \* UTS Web Service_Tri Ria Handayani
 ___
 
